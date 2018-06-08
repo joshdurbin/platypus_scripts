@@ -65,6 +65,7 @@ CASKS=(
   arduino
   docker
   dropbox
+  firefox
   gitter
   gmvault
   goland
