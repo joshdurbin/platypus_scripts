@@ -63,12 +63,11 @@ brew cleanup
 
 CASKS=(
   arduino
+  atom
   docker
   dropbox
-  firefox
   gitter
   gmvault
-  goland
   google-chrome
   google-cloud-sdk
   intellij-idea-ce
@@ -81,6 +80,7 @@ CASKS=(
   processing
   pycharm-ce
   signal
+  slack
   sourcetree
   spotify
   touchosc-editor
