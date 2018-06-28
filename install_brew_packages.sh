@@ -64,16 +64,20 @@ brew cleanup
 CASKS=(
   arduino
   atom
+  cleanmymac
   docker
   dropbox
+  encryptme
   gitter
   gmvault
   google-chrome
   google-cloud-sdk
   intellij-idea-ce
+  homebrew/cask-versions/java8
   jd-gui
   kaleidoscope
   keybase
+  little-snitch
   micro-snitch
   microsoft-office
   postman
